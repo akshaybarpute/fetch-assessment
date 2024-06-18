@@ -7,6 +7,5 @@ Run npm install
 
 # How to start server?
 Run command "node server.js" in terminal inside the directory where server.js located.
-Dockerfile is provided, but I am not able to map ports of host & exposed port of docker.
 Code is tested and runs as expected on local setup.
 #
